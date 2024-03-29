@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Revtiraman Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-- 🔭 I’m currently working on **Slack clone**
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">- 🔭 I’m currently working on **Slack clone**
 
 - 🌱 I’m currently learning **Reactnative Android Developement**
 
