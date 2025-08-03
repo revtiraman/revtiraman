@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revtiraman Tripathi</h1>
-<h3 align="center">A passionate AIML from India</h3>
+<h3 align="center">A passionate AIML Developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - 🔭 I’m currently working on **Slack clone**
 
