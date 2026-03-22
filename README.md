@@ -1,3 +1,4 @@
+## under construction sorry 
 # Revtiraman Tripathi
 
 Building AI systems — agents, RAG, and distributed inference.
