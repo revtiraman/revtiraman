@@ -1,34 +1,33 @@
-## under construction sorry 
-# Revtiraman Tripathi
+# Hey, I'm Revtiraman 👋
 
 Building AI systems — agents, RAG, and distributed inference.
 
-[Resume] | [LinkedIn] | [Email]
+[LinkedIn](https://www.linkedin.com/in/revtiraman-tripathi-19a251203/) | [Email](mailto:revtiraman1234@gmail.com) | [Blog](#)
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Recent Projects
 
-| Project                              | Repo   | Demo |
-| ------------------------------------ | ------ | ---- |
-| RepoAgent — Autonomous Code Engineer | GitHub | Demo |
-| Distributed LLM Inference Engine     | GitHub | –    |
-| Adaptive Hybrid RAG System           | GitHub | Demo |
-| Reinforcement Learning System        | GitHub | –    |
+| Project                              | Repo                                                           | Demo                                                     | Blog |
+| ------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------- | ---- |
+| RepoAgent — Autonomous Code Engineer | [GitHub](https://github.com/revtiraman/ai-code-engineer-agent) | [Demo](https://youtu.be/O-a4ukwAHfU?si=EgGxzZnaxkI0OXKk) | –    |
+| Distributed LLM Inference Engine     | [GitHub](#)                                                    | –                                                        | –    |
+| Adaptive Hybrid RAG System           | [GitHub](#)                                                    | –                                                        | –    |
+| Reinforcement Learning System        | [GitHub](#)                                                    | –                                                        | –    |
 
 ---
 
 ## 💼 Experience
 
-* AI Intern @ Pharynx AI (2025–Present)
-* Research Intern @ IIIT Allahabad (2024)
+SDE Intern @ Profundis AI
+Undergraduate Researcher @ USAR, GGSIPU New Delhi
 
 ---
 
 ## ⚙️ Focus
 
 * AI agents and orchestration
-* retrieval systems (RAG + reasoning + validation)
+* RAG systems (retrieval + reasoning + validation)
 * distributed inference and optimization
 * system evaluation (success rate, stability)
 
@@ -37,18 +36,6 @@ Building AI systems — agents, RAG, and distributed inference.
 ## 🧠 Stack
 
 Python • PyTorch • Transformers • FastAPI • LangChain • AWS
-
----
-
-## 🧪 Selected Work
-
-**RepoAgent**
-multi-agent system for executing software engineering tasks
-100+ runs • 34% completion • aws deployed
-
-**Hybrid RAG**
-bm25 + dense + reranking
-multi-hop reasoning + verification
 
 ---
 
