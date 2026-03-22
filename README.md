@@ -21,8 +21,9 @@ Building AI systems — agents, RAG, and distributed inference.
 
 * AI Intern @ [Pharynx AI](https://www.pharynx.ai/) (2025–Present)
 * Research Intern @ [IIIT Allahabad](https://www.iiita.ac.in/) (2024)
-* SDE Intern @ Profundis AI
 * Undergraduate Researcher @ [USAR, GGSIPU New Delhi](http://www.ipu.ac.in/)
+* SDE Intern @ Profundis AI
+
 
 
 
