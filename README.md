@@ -18,7 +18,7 @@ Building AI systems — agents, RAG, and distributed inference.
 ---
 
 ## 💼 Experience
-
+* AI Engineering Intern @ Inogen.ai (Netherlands) (2026–Present)
 * AI Intern @ [Pharynx AI](https://www.pharynx.ai/) (2025–Present)
 * Research Intern @ [IIIT Allahabad](https://www.iiita.ac.in/) (2024)
 * Undergraduate Researcher @ [USAR, GGSIPU New Delhi](http://www.ipu.ac.in/)
